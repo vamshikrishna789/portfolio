@@ -1,0 +1,12 @@
+[03-Oct-2017 10:16:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 22
+[03-Oct-2017 10:16:10 Etc/GMT] PHP Notice:  Undefined variable: email in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 23
+[03-Oct-2017 10:17:03 Etc/GMT] PHP Notice:  Undefined variable: email in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 22
+[03-Oct-2017 10:17:03 Etc/GMT] PHP Notice:  Undefined variable: email in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 23
+[03-Oct-2017 10:17:21 Etc/GMT] PHP Notice:  Undefined variable: email in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 22
+[03-Oct-2017 10:17:21 Etc/GMT] PHP Notice:  Undefined variable: email in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 23
+[04-Oct-2017 10:52:54 Etc/GMT] PHP Parse error:  syntax error, unexpected 'celebjasoos' (T_STRING) in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 52
+[04-Oct-2017 10:53:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'celebjasoos' (T_STRING) in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 52
+[04-Oct-2017 10:54:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'X' (T_STRING) in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 53
+[04-Oct-2017 10:57:27 Etc/GMT] PHP Parse error:  syntax error, unexpected 'X' (T_STRING) in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 53
+[04-Oct-2017 11:01:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'info' (T_STRING) in /home/dees1vsa/public_html/apovationtechnogies.com/SM-AR/html_form_send.php on line 52
+[09-Oct-2017 06:46:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/dees1vsa/public_html/apovationtechnogies.com/sm_ar/send_mail.php on line 13
